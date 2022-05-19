@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-...
+```
 Social Media Accounts:
 LinkedIn: https://www.linkedin.com/in/joung-won-b43988207/
 YouTube: https://www.youtube.com/channel/UCDKU3PXDmASZ9PI41-i4mAA
-...
+```
+
+
 <!--
 **Joung-Won/Joung-Won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
